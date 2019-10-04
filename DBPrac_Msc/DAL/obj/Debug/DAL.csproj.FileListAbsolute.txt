@@ -1,0 +1,14 @@
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\DAL.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\DAL.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\Model.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\Model.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\obj\Debug\DAL.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\obj\Debug\DAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\DAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\DAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\Model.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\bin\Debug\Model.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\obj\Debug\DAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DAL\obj\Debug\DAL.pdb

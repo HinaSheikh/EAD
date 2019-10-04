@@ -1,0 +1,5 @@
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\Model\bin\Debug\Model.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\Model\bin\Debug\Model.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\Model\obj\Debug\Model.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\Model\obj\Debug\Model.pdb

@@ -1,0 +1,16 @@
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.csprojAssemblyReference.cache
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.Form1.resources
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.Properties.Resources.resources
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.csproj.GenerateResource.cache
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\TestFormApp.exe.config
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\TestFormApp.exe
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\TestFormApp.pdb
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\DAL.dll
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\Models.dll
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\DAL.pdb
+C:\Users\Usman\source\repos\Prctice\TestFormApp\bin\Debug\Models.pdb
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.csproj.CopyComplete
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.exe
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.pdb
+C:\Users\Usman\source\repos\Prctice\TestFormApp\obj\Debug\TestFormApp.HomeForm.resources

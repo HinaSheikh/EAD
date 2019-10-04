@@ -1,0 +1,19 @@
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\bin\Debug\WinFormPrac.exe
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\bin\Debug\WinFormPrac.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.csprojResolveAssemblyReference.cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.Form1.resources
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.frmHome.resources
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.Properties.Resources.resources
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.csproj.GenerateResource.Cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.exe
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.pdb
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\bin\Debug\WinFormPrac.exe
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\bin\Debug\WinFormPrac.pdb
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.csprojAssemblyReference.cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.Form1.resources
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.frmHome.resources
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.Properties.Resources.resources
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.csproj.GenerateResource.cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.csproj.CoreCompileInputs.cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.exe
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\WinFormPracSol\WinFormPrac\obj\Debug\WinFormPrac.pdb

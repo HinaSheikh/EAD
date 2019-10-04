@@ -1,0 +1,14 @@
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\DBPrac_Msc.exe
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\DBPrac_Msc.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\BAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\Model.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\DAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\BAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\Model.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\bin\Debug\DAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\obj\Debug\DBPrac_Msc.csprojResolveAssemblyReference.cache
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\obj\Debug\DBPrac_Msc.Form1.resources
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\obj\Debug\DBPrac_Msc.Properties.Resources.resources
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\obj\Debug\DBPrac_Msc.csproj.GenerateResource.Cache
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\obj\Debug\DBPrac_Msc.exe
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\DBPrac_Msc\obj\Debug\DBPrac_Msc.pdb

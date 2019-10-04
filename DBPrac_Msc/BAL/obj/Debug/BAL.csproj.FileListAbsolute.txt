@@ -1,0 +1,18 @@
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\BAL.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\BAL.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\DAL.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\Model.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\DAL.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\Model.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\obj\Debug\BAL.dll
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\obj\Debug\BAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\BAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\BAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\DAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\Model.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\DAL.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\bin\Debug\Model.pdb
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\obj\Debug\BAL.dll
+E:\EAD\lectur 11 and 12\Lecture 7 ADO.NET_2\Code\DBPrac_Msc\BAL\obj\Debug\BAL.pdb

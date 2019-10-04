@@ -1,0 +1,12 @@
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\Prctice.exe.config
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\Prctice.exe
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\Prctice.pdb
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\DAL.dll
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\Models.dll
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\DAL.pdb
+C:\Users\Usman\source\repos\Prctice\Prctice\bin\Debug\Models.pdb
+C:\Users\Usman\source\repos\Prctice\Prctice\obj\Debug\Prctice.csprojAssemblyReference.cache
+C:\Users\Usman\source\repos\Prctice\Prctice\obj\Debug\Prctice.csproj.CoreCompileInputs.cache
+C:\Users\Usman\source\repos\Prctice\Prctice\obj\Debug\Prctice.csproj.CopyComplete
+C:\Users\Usman\source\repos\Prctice\Prctice\obj\Debug\Prctice.exe
+C:\Users\Usman\source\repos\Prctice\Prctice\obj\Debug\Prctice.pdb

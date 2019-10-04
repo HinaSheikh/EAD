@@ -1,0 +1,28 @@
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\bin\Debug\Excercise4.exe
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\bin\Debug\Excercise4.pdb
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csprojResolveAssemblyReference.cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise3.Form1.resources
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise3.frmStart.resources
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.Properties.Resources.resources
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csproj.GenerateResource.Cache
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.exe
+E:\MSC\3rd smester\Teachers Data\EAD Data Zubairs\EAD\before mid\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.pdb
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.exe
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.pdb
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\bin\Debug\Excercise4.exe
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\bin\Debug\Excercise4.pdb
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csprojResolveAssemblyReference.cache
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise3.Form1.resources
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise3.frmStart.resources
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.Properties.Resources.resources
+E:\EAD\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csproj.GenerateResource.Cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\bin\Debug\Excercise4.exe
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\bin\Debug\Excercise4.pdb
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csprojAssemblyReference.cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise3.Form1.resources
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise3.frmStart.resources
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.Properties.Resources.resources
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csproj.GenerateResource.cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\ConrtolsBasics.csproj.CoreCompileInputs.cache
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.exe
+E:\EAD\premid\lectur 11 and 12\Cods\Code_lecture4\Windows Forms\2- Conrtols Basics\ConrtolsBasics\obj\x86\Debug\Excercise4.pdb
